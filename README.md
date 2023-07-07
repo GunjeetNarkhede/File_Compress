@@ -67,7 +67,4 @@ Use this command in library containing this file
   processing..!
   Completed
 ```
-## Authors
-
-- [@Divyanshu2905](https://github.com/Divyanshu2905)
 
